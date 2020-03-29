@@ -1,0 +1,21 @@
+.sel{
+  background: cadetblue; 
+}
+
+.para{
+  background: rgb(160, 95, 135); 
+}
+
+.btn {
+  border: none;
+  background-color: inherit;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  display: inline-block;
+}
+
+/* Temp show every box 
+* {
+    border: 1px solid red !important;
+ }
